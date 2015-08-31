@@ -14,8 +14,9 @@ public class Main {
             System.out.println(hakija.haeSuosituinUutinen());
         }
     }
-    
+
     public static String komennot(){
+
         return "Komennot: viimeisin, satunnainen";
     }
 }
