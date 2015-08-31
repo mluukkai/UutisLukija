@@ -2,3 +2,4 @@ language: java
 
 before_install:
   - git clone https://github.com/hy-ohtu/HackerNewsUutiset.git
+  - mvn clean install -U -Dmaven.test.skip=true
