@@ -17,6 +17,6 @@ public class Main {
 
     public static String komennot(){
 
-        return "Komennot: viimeisin, satunnainen";
+        return "Komennot: viimeisin, suosituin";
     }
 }
